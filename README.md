@@ -16,7 +16,8 @@ The delay between each click is customizable. By default, it's set to 30 seconds
 
 ## Pre-requisites
 
-Before using this script, please ensure that Genshin Impact is installed on your Mac using PlayCover. The script will not work as expected if the game is not properly installed.
+Before using this script, please ensure that Genshin Impact is installed on your Mac using PlayCover. The script will of course not do anything if the game isn't installed. 
+[PlayCover](https://github.com/PlayCover/PlayCover/)
 
 ## Disclaimer
 
