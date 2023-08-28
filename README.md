@@ -1,6 +1,6 @@
 # Welkin-Claimer ![AppleScript Badge](https://img.shields.io/badge/AppleScript-Scripting-blue)
 
-The Welkin-Claimer is an AppleScript program designed to automate the process of opening the Genshin Impact app, performing a series of click actions, and then quitting the app. 
+The Welkin-Claimer is an AppleScript program designed to automate the process of opening  Genshin Impact app, performing a series of click actions, and then quitting the app. (this description was totally not written by gpt because i couldn't be bothered)
 
 ## How it works
 
